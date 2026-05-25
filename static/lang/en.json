@@ -1,0 +1,80 @@
+{
+  "common": { "ok": "OK", "cancel": "Cancel", "close": "Close", "clear": "Clear", "change": "Change", "refresh": "Refresh", "connect": "Connect", "confirm": "Confirm", "loading": "Loading..." },
+  "header": {
+    "themeLabel": "Theme",
+    "tagline": "Mirror & Control Android // Devices Easily",
+    "scrcpyEngine": "Scrcpy Engine",
+    "scrcpyReady": "Scrcpy Ready",
+    "syncingComponents": "Syncing Components {progress}%",
+    "installCore": "Install Core",
+    "selectFolder": "Select Folder",
+    "resetPath": "Reset Path",
+    "setupHelp": "Setup Help",
+    "setupHelpTitle": "Get help setting up scrcpy",
+    "manualSetupGuide": "Manual Setup Guide",
+    "manualSetupIntro": "If the automatic download fails or you prefer to use your own scrcpy version:",
+    "manualStep1": "Download the latest version for your OS from",
+    "manualStep1Link": "GitHub Releases",
+    "manualStep2": "Unzip the downloaded archive to a folder on your computer.",
+    "manualStep3Before": "Click the",
+    "manualStep3Browse": "Browse",
+    "manualStep3After": "icon in the header.",
+    "manualStep4Before": "Select the unzipped folder containing the",
+    "manualStep4Executable": "scrcpy",
+    "manualStep4After": "executable.",
+    "manualNote": "Note: ScrcpyGUI will remember this custom path for future sessions.",
+    "gotIt": "Got it"
+  },
+  "sidebar": {
+    "deviceHub": "Device Hub", "killAdb": "Kill ADB", "killAdbTitle": "Force kill all adb operations", "syncing": "Syncing...",
+    "refresh": "Refresh", "noDevicesDetected": "No devices detected", "live": "Live", "ready": "Ready",
+    "wifi": "Wi-Fi", "usb": "USB", "wireless": "Wireless", "usbSetupTip": "USB Setup Tip",
+    "usbSetupTipTextBefore": "Enable Developer Options and USB Debugging on your phone.",
+    "wirelessSetupTip": "Wireless Setup Tip",
+    "ipConnect": "IP Connect", "auto": "Auto", "ipPlaceholder": "192.168.x.x:5555", "connect": "Connect",
+    "connecting": "...", "recentDevices": "Recent Devices", "clear": "Clear", "pairDeviceTitle": "2. Pair Device (Android 11+)",
+    "ipPortPlaceholder": "IP:Port", "pairingCodePlaceholder": "Pairing Code", "startPairing": "Start Pairing",
+    "synchronizing": "Synchronizing...", "flashPushFiles": "Flash / Push Files", "flashPushSubtitle": "Drag & drop ANY FILE OR APK"
+  },
+  "controlPanel": {
+    "captureSource": "Capture Source", "screen": "Screen", "camera": "Camera", "desktop": "Desktop",
+    "engineConfiguration": "Engine Configuration", "otgOnly": "OTG Only", "active": "Active", "ready": "Ready",
+    "inputEnhancements": "Input Enhancements", "inputEnhancementsDescription": "Control your phone using your computer's Mouse and Keyboard (OTG mode).",
+    "hidKeyboard": "HID Keyboard", "hidMouse": "HID Mouse", "pureHid": "Pure HID (No Mirror)",
+    "bitrate": "Bitrate", "resolution": "Resolution", "resolutionOriginal": "Original", "fps": "FPS", "rotation": "Rotation",
+    "graphicsRenderer": "Graphics Renderer", "rendererAuto": "Auto", "custom": "Custom",
+    "webcamProTip": "Webcam Pro Tip", "webcamProTipTextBefore": "Use your phone as a webcam in Zoom/Teams by capturing this Scrcpy window in OBS Studio.",
+    "cameraDevice": "Camera Device", "refreshLenses": "Refresh Lenses", "autoSelect": "Auto Select", "codec": "Codec", "aspect": "Aspect",
+    "virtualDisplayEngine": "Virtual Display Engine", "ratioLock": "Ratio Lock", "width": "Width", "height": "Height",
+    "uiScaling": "UI Scaling (DPI)", "quickPresets": "Quick Presets", "preset1080p": "1080p Standard", "preset1440p": "1440p High",
+    "preset4k": "4K Ultra", "presetUltrawide": "21:9 Ultra-Wide",
+    "initializeOtg": "Initialize OTG", "startMission": "Start Mission", "engageCamera": "Engage Camera", "ejectToDesktop": "Eject to Desktop",
+    "stopSession": "Stop Session", "flexDisplay": "Flex Display", "cameraTorch": "Camera Torch", "cameraZoom": "Camera Zoom",
+    "backgroundColor": "BG Color", "backgroundColorNone": "Default", "badgeNew": "NEW"
+  },
+  "sessionBehavior": {
+    "title": "Session Behavior", "stayAwake": "Stay Awake", "screenOff": "Screen Off",
+    "forwardAudio": "Forward Audio", "audioCodec": "Audio codec", "audioCodecAuto": "Automatic",
+    "audioCodecOpus": "Opus", "audioCodecAac": "AAC", "audioCodecFlac": "FLAC", "audioCodecRaw": "Raw",
+    "alwaysOnTop": "Always On Top", "fullScreen": "Full Screen", "borderless": "Borderless",
+    "recordFeed": "Record Feed", "recordPath": "Record Path", "change": "Change", "defaultVideosFolder": "Default (Videos Folder)",
+    "keepActive": "Keep Active"
+  },
+  "shortcuts": { "title": "Shortcuts (Alt +)", "full": "Full", "home": "Home", "back": "Back", "recents": "Recents", "power": "Power", "rotate": "Rotate", "paste": "Paste", "off": "Off" },
+  "logPanel": {
+    "systemConsole": "System Console", "report": "Report", "reportTitle": "Export diagnostic report", "clear": "Clear",
+    "waitingForSequence": "Waiting for sequence...", "terminalPlaceholder": "Enter command (e.g. adb shell, scrcpy --help)..."
+  },
+  "alerts": {
+    "noDeviceSelectedTitle": "No Device Selected",
+    "noDeviceSelectedMessage": "Please select a device from the sidebar to continue.",
+    "updateAvailableTitle": "Update Available",
+    "updateAvailableMessage": "A new version of Scrcpy (v{latest}) is available. Your installed version is v{local}.",
+    "updateBtn": "Update Now", "cancelBtn": "Later"
+  },
+  "footer": {
+    "aboutScrcpyGui": "About Scrcpy GUI", "github": "Github", "youtube": "Youtube", "website": "Website",
+    "core": "Core", "client": "Client", "ui": "UI", "assets": "Assets",
+    "appVersion": "APP VERSION v{version} - CREATED WITH {heart} BY KB"
+  }
+}

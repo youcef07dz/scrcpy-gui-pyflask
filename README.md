@@ -1,3 +1,7 @@
+I apologize for that oversight. I inadvertently removed the `![Screenshot](screen.gif)` line when I was restructuring the document to add the download link.
+
+Here is the document with the screenshot placeholder restored:
+
 # scrcpy-gui-flask
 
 > Web-based GUI for [scrcpy](https://github.com/Genymobile/scrcpy) — screen mirroring and control for Android devices.

@@ -12,7 +12,7 @@ Built with **Flask** + **Tailwind CSS**, this is a Flask port of the original Ta
 
 
 
-**[Download scrcpy-gui-flask v4 (Windows 64-bit)](https://www.google.com/search?q=https://github.com/youcef07dz/scrcpy-gui-pyflask/releases/download/v4-win64-05-25-2026/scrcpy-gui-flask-v4-win64-05-25-2026.zip)**
+**[Download scrcpy-gui-flask v4 (Windows 64-bit)](https://github.com/youcef07dz/scrcpy-gui-pyflask/releases/download/v4-win64-05-25-2026/scrcpy-gui-flask-v4-win64-05-25-2026.zip)**
 
 ---
 

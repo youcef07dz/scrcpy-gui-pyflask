@@ -1,6 +1,3 @@
-add download link
-https://github.com/youcef07dz/scrcpy-gui-pyflask/releases/download/v4-win64-05-25-2026/scrcpy-gui-flask-v4-win64-05-25-2026.zip
- to this 
 # scrcpy-gui-flask
 
 > Web-based GUI for [scrcpy](https://github.com/Genymobile/scrcpy) — screen mirroring and control for Android devices.
